@@ -34,7 +34,7 @@ Users should be able to:
 ![](./images/screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://github.com/its-me-musa/intro-component-with-signup-form-master/blob/main/README.md)
+- Solution URL: [Add solution URL here](https://github.com/its-me-musa/intro-component-with-signup-form-master)
 - Live Site URL: [Add live site URL here](https://angry-golick-98bf7a.netlify.app)
 
 ## My process
