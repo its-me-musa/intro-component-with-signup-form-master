@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 - Solution URL: [Add solution URL here](https://github.com/its-me-musa/intro-component-with-signup-form-master/blob/main/README.md)
